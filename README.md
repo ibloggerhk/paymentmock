@@ -1,19 +1,15 @@
-![](https://raw.githubusercontent.com/ibloggerhk/paymentmock/master/readme/vanimate.gif)
+![](https://raw.githubusercontent.com/ibloggerhk/paymentmock/master/readme/animate.gif)
 
-***Payment Mock*** 
+***Payment Mock Test*** 
 =======================
 
 **Video Demo**: https://raw.githubusercontent.com/ibloggerhk/paymentmock/master/readme/video_demo.mov
 
 **Live Demo**: https://enigmatic-mountain-19044.herokuapp.com
 
-A payment gateway mock, that could handle payments with Paypal
-
-When I started this test, my focus was on **simplicity** and support **heroku** .
-
 
 ### System Flow
-![](https://raw.githubusercontent.com/ibloggerhk/paymentmock/master/readme/vsystemflow.png)
+![](https://raw.githubusercontent.com/ibloggerhk/paymentmock/master/readme/systemflow.png)
 
 
 Prerequisites
