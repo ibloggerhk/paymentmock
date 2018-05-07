@@ -1,0 +1,21 @@
+{
+  "name": "paymentmock",
+  "version": "0.1.0",
+  "description": "payment mock",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "braintree": "^2.10.0",
+    "dotenv": "^5.0.1",
+    "ejs": "^2.5.9",
+    "express": "^4.16.3",
+    "express-redis-cache": "^1.1.1",
+    "mongoose": "^5.0.17",
+    "paypal-rest-sdk": "^1.8.1"
+  }
+}
