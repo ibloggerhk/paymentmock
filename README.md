@@ -1,11 +1,14 @@
-![](https://raw.githubusercontent.com/ibloggerhk/paymentmock/master/animate.gif)
+![](https://raw.githubusercontent.com/ibloggerhk/paymentmock/master/cd.gif)
+
 ***Payment Mock*** 
 =======================
 
 **Video Demo**: https://raw.githubusercontent.com/ibloggerhk/paymentmock/master/video_demo.mov
+
 **Live Demo**: https://enigmatic-mountain-19044.herokuapp.com
 
 A payment gateway mock, that could handle payments with Paypal
+
 When I started this test, my focus was on **simplicity** and support **heroku** .
 
 
