@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/ibloggerhk/paymentmock/master/cd.gif)
+![](https://raw.githubusercontent.com/ibloggerhk/paymentmock/master/animate.gif)
 
 ***Payment Mock*** 
 =======================
