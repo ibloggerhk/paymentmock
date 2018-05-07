@@ -1,9 +1,9 @@
-![](https://raw.githubusercontent.com/ibloggerhk/paymentmock/master/animate.gif)
+![](https://raw.githubusercontent.com/ibloggerhk/paymentmock/master/readme/vanimate.gif)
 
 ***Payment Mock*** 
 =======================
 
-**Video Demo**: https://raw.githubusercontent.com/ibloggerhk/paymentmock/master/video_demo.mov
+**Video Demo**: https://raw.githubusercontent.com/ibloggerhk/paymentmock/master/readme/video_demo.mov
 
 **Live Demo**: https://enigmatic-mountain-19044.herokuapp.com
 
@@ -13,7 +13,7 @@ When I started this test, my focus was on **simplicity** and support **heroku** 
 
 
 ### System Flow
-![](https://raw.githubusercontent.com/ibloggerhk/paymentmock/master/systemflow.png)
+![](https://raw.githubusercontent.com/ibloggerhk/paymentmock/master/readme/vsystemflow.png)
 
 
 Prerequisites
